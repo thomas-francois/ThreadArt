@@ -1,0 +1,13 @@
+*.prof
+*.txt
+
+CreatingBackdrop.py
+ThreadSticker.py
+
+/Tests
+/Source
+/GraphTraversal
+/CroppedImages
+/ColorVisualisation
+/Paths
+/__pycache__
