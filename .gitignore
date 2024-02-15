@@ -1,3 +1,4 @@
-*.prof
-
 __pycache__
+.DS_Store
+
+*.prof
