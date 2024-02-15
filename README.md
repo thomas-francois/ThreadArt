@@ -1,5 +1,7 @@
 # ThreadArt
 
+This project aims to generate a replica of an image with a continuous string
+
 ## Requirements
 
 Ensure you have the following prerequisites installed before running the project:
@@ -12,7 +14,7 @@ Ensure you have the following prerequisites installed before running the project
 Contributions are welcome!
 Whether you're interested in fixing bugs, adding features, or improving documentation, feel free to submit a pull request.
 
-## License & Acknowlegment
+## License & Acknowledgement
 
 This project is based on the work of [halfmonty](https://github.com/halfmonty/StringArtGenerator)
 
